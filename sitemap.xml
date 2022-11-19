@@ -11,15 +11,6 @@
   </url>
   
   <url>
-    <loc>http://example.com/2022/11/18/my-test/</loc>
-    
-    <lastmod>2022-11-18</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>http://example.com/404.html</loc>
     
     <lastmod>2022-11-18</lastmod>
@@ -38,7 +29,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/categories/index.html</loc>
+    <loc>http://example.com/about/index.html</loc>
     
     <lastmod>2022-11-18</lastmod>
     
@@ -47,7 +38,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/about/index.html</loc>
+    <loc>http://example.com/repository/index.html</loc>
     
     <lastmod>2022-11-18</lastmod>
     
@@ -74,7 +65,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/repository/index.html</loc>
+    <loc>http://example.com/categories/index.html</loc>
     
     <lastmod>2022-11-18</lastmod>
     
